@@ -2,7 +2,7 @@ void rotate(Node* head, int N)
 {
 	Node*cur=head;
 	int count=1;
-	while(count<N && curr)
+	while(count<N && cur)
 	{
 		cur=cur->next;
 		count++;
@@ -13,7 +13,7 @@ void rotate(Node* head, int N)
 	cur->next=head;
 	head->prev=cur;
 	head=temp->next;
-	cur->next=NULL;
+	temp->next=NULL;
 	head->prev=NULL;	
 } 
 
