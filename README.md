@@ -5,5 +5,7 @@ Array
 
 Linked List
 
+Stacks
+
 Trees
 
