@@ -3,6 +3,8 @@
  
 Array
 
+Dynamic Programming
+
 Linked List
 
 Recursion
