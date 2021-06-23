@@ -23,5 +23,5 @@ int findFloor(int arr[], int N, int K)
             high = mid-1;
         }
     }
-    return res;
+     return res;
 }
