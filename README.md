@@ -7,6 +7,8 @@ Dynamic Programming
 
 Linked List
 
+Math
+
 Recursion
 
 Stacks
