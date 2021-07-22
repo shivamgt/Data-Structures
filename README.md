@@ -11,6 +11,8 @@ Math
 
 Recursion
 
+Searching
+
 Stacks
 
 Strings
