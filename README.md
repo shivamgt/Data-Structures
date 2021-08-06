@@ -1,5 +1,4 @@
-# Data Structures
- DSA implementation in C++
+# DSA implementation in C++
  
 Array
 
