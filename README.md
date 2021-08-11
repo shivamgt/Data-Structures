@@ -8,6 +8,8 @@ Linked List
 
 Math
 
+Queue
+
 Recursion
 
 Searching
