@@ -2,7 +2,7 @@
  
 - Array
 
-Dynamic Programming
+- Dynamic Programming
 
 Linked List
 
