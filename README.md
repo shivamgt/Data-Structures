@@ -1,13 +1,14 @@
-# Data Structures
- DSA implementation in C++
+# DSA implementation in C++
  
-Array
+- Array
 
-Dynamic Programming
+- Dynamic Programming
 
 Linked List
 
 Math
+
+Queue
 
 Recursion
 
