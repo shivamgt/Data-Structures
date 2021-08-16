@@ -4,7 +4,7 @@
 
 - Dynamic Programming
 
-Linked List
+- Linked List
 
 Math
 
