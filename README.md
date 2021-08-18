@@ -6,7 +6,7 @@
 
 - Linked List
 
-Math
+- Math
 
 Queue
 
