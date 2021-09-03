@@ -8,7 +8,7 @@
 
 - Math
 
-Queue
+- Queue
 
 Recursion
 
