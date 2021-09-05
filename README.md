@@ -10,7 +10,7 @@
 
 - Queue
 
-Recursion
+- Recursion
 
 Searching
 
