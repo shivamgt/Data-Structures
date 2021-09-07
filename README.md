@@ -12,7 +12,7 @@
 
 - Recursion
 
-Searching
+- Searching
 
 Stacks
 
