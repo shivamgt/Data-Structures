@@ -14,7 +14,7 @@
 
 - Searching
 
-Stacks
+- Stacks
 
 Strings
 
