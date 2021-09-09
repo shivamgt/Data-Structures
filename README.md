@@ -16,7 +16,7 @@
 
 - Stacks
 
-Strings
+- Strings
 
 Trees
 
