@@ -4,6 +4,8 @@
 
 - Dynamic Programming
 
+- Hashing
+
 - Linked List
 
 - Math
