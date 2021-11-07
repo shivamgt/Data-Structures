@@ -10,6 +10,8 @@
 
 - Math
 
+Matrix
+
 - Queue
 
 - Recursion
