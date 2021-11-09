@@ -1,3 +1,30 @@
+//Time - O(n^2)
+//Space - O(1)
+
+	int trap(vector<int>& height)
+     {
+        int n = height.size();
+	int water = 0;	
+	int ans = 0;
+		
+        vector<int> left(n,0);
+        vector<int> right(n,0);
+		
+        for(int i=1;i<n;i++)
+            left[i] = max(left[i-1],height[i-1]);
+		
+        for(int i=n-2;i>=0;i--)
+            right[i] = max(right[i+1],height[i+1]);
+        
+        for(int i=0;i<n;i++)
+	{
+            water = min(left[i],right[i]) - height[i];
+            if(water > 0)
+                ans+=water;
+        }
+        return ans;
+    }
+
 //Time - O(n) 
 //Space- O(n)	
 	int trap(vector<int>& height) 
