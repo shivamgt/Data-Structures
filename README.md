@@ -4,6 +4,8 @@
 
 - Dynamic Programming
 
+Greedy Algorithm
+
 - Hashing
 
 - Linked List
