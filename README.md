@@ -4,7 +4,7 @@
 
 - Dynamic Programming
 
-Greedy Algorithm
+- Greedy Algorithm
 
 - Hashing
 
