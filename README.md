@@ -16,7 +16,7 @@
 
 - Queue
 
-- Recursion
+- Recursion and Backtracking
 
 - Searching
 
