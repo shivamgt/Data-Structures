@@ -18,3 +18,13 @@ void rotate(vector<int>& nums, int k)
     reverse(nums, n-k, n-1);					// Reverse n-k to End(n-1) (2nd half of array)
     reverse(nums, 0, n-1);						// Reverse Begin to Last (Whole Array)
 }
+
+//Or
+
+void rotate(vector<int>& nums, int k) {
+        
+    k  = k % nums.size();
+    reverse(nums.begin(), nums.end());
+    reverse(nums.begin(), nums.begin()+k);
+    reverse(nums.begin()+k, nums.end());
+}
