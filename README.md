@@ -20,6 +20,8 @@
 
 - Searching
 
+- Sorting
+
 - Stacks
 
 - Strings
