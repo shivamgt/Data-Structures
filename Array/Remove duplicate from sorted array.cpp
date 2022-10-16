@@ -34,3 +34,17 @@
         }
         return left+1;
     }
+    
+//Time - O(n)
+//Space - O(1)
+
+int remove_duplicate(int a[],int n){
+         int duplicate = 0;
+         for(int i=0; i<n; i++){
+             if(a[i] == a[i+1])
+                 duplicate++;
+             else
+                 a[i-duplicate] = a[i];
+        }
+         return n-duplicate;
+    }    
